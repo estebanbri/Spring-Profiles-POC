@@ -1,0 +1,6 @@
+# Dev profile
+
+saludo: "Hola desde el environment DEV !"
+
+server:
+  port: 9001
