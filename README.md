@@ -4,7 +4,7 @@ Spring Profiles (POC)
 ## Para correr el profile DEV: application-dev.yml y AppConfigDev.java.
 
 ### Agregar la sig. variable de entorno (environment variable) a la configuracion el RUN
-spring.profiles.active=dev
+> spring.profiles.active=dev
 
 
 
